@@ -118,9 +118,13 @@ nav ul li a {
 }
 
 
-.inline-size {
-      text-align: center;
-}
+.video-container {
+            margin: 20px 0;
+        }
+        video {
+            width: 100%;
+            height: auto;
+        }
 
 .inline-ad,
 .video-ad,
