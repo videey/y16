@@ -27,7 +27,7 @@ body {
 .anchor-ad {
     position: fixed;
     top: 0;
-    max-width: 728px;
+    width: auto;
    
     background: white;
     text-align: center;
@@ -43,7 +43,7 @@ body {
 .bottom-ad {
     position: fixed;
     bottom: 0;
-    width: 728px;
+    width: 100%;
    
     background: white;
     text-align: center;
